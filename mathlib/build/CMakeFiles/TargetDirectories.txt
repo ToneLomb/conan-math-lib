@@ -1,0 +1,4 @@
+/home/tonelomb/conan/mathlib/build/CMakeFiles/mathlib.dir
+/home/tonelomb/conan/mathlib/build/CMakeFiles/mathlib_test.dir
+/home/tonelomb/conan/mathlib/build/CMakeFiles/edit_cache.dir
+/home/tonelomb/conan/mathlib/build/CMakeFiles/rebuild_cache.dir

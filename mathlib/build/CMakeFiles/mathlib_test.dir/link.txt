@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/mathlib_test.dir/test/main.cpp.o -o mathlib_test  -Wl,-rpath,/home/tonelomb/conan/mathlib/build libmathlib.so 

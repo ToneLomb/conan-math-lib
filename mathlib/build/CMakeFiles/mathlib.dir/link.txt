@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libmathlib.so -o libmathlib.so CMakeFiles/mathlib.dir/src/mathlib.cpp.o 
