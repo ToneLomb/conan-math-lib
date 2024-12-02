@@ -1,0 +1,3 @@
+/home/tonelomb/conan-math-lib/mathlib/test_package/build/gcc-11-x86_64-gnu17-release/CMakeFiles/test.dir
+/home/tonelomb/conan-math-lib/mathlib/test_package/build/gcc-11-x86_64-gnu17-release/CMakeFiles/edit_cache.dir
+/home/tonelomb/conan-math-lib/mathlib/test_package/build/gcc-11-x86_64-gnu17-release/CMakeFiles/rebuild_cache.dir

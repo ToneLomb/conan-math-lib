@@ -1,0 +1,1 @@
+. "/home/tonelomb/conan-math-lib/mathlib/test_package/build/build/Release/generators/conanbuildenv-release-x86_64.sh"
