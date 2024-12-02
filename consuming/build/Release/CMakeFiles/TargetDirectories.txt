@@ -1,0 +1,3 @@
+/home/tonelomb/conan/build/Release/CMakeFiles/test_conan.dir
+/home/tonelomb/conan/build/Release/CMakeFiles/edit_cache.dir
+/home/tonelomb/conan/build/Release/CMakeFiles/rebuild_cache.dir
