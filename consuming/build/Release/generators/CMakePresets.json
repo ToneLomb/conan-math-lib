@@ -19,7 +19,7 @@
                 "CMAKE_BUILD_TYPE": "Release"
             },
             "toolchainFile": "generators/conan_toolchain.cmake",
-            "binaryDir": "/home/tonelomb/conan/build/Release"
+            "binaryDir": "/home/tonelomb/conan-math-lib/consuming/build/Release"
         }
     ],
     "buildPresets": [

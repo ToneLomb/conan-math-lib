@@ -1,4 +1,4 @@
-# Install script for directory: /home/tonelomb/conan
+# Install script for directory: /home/tonelomb/conan-math-lib/consuming
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/tonelomb/conan/build/Release/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/tonelomb/conan-math-lib/consuming/build/Release/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

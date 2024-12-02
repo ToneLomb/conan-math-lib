@@ -1,1 +1,1 @@
-. "/home/tonelomb/conan/build/Release/generators/conanrunenv-release-x86_64.sh"
+. "/home/tonelomb/conan-math-lib/consuming/build/Release/generators/conanrunenv-release-x86_64.sh"

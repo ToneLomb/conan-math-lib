@@ -1,1 +1,1 @@
-. "/home/tonelomb/conan/build/Release/generators/deactivate_conanbuildenv-release-x86_64.sh"
+. "/home/tonelomb/conan-math-lib/consuming/build/Release/generators/deactivate_conanbuildenv-release-x86_64.sh"

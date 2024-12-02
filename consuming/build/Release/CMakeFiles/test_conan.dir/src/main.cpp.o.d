@@ -1,5 +1,6 @@
 CMakeFiles/test_conan.dir/src/main.cpp.o: \
- /home/tonelomb/conan/src/main.cpp /usr/include/stdc-predef.h \
+ /home/tonelomb/conan-math-lib/consuming/src/main.cpp \
+ /usr/include/stdc-predef.h \
  /home/tonelomb/.conan2/p/b/mathl10da254219b95/p/include/mathlib/mathlib.h \
  /usr/include/c++/11/stdexcept /usr/include/c++/11/exception \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \

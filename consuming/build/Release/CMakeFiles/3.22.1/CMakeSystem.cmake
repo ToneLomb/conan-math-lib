@@ -3,7 +3,7 @@ set(CMAKE_HOST_SYSTEM_NAME "Linux")
 set(CMAKE_HOST_SYSTEM_VERSION "5.15.167.4-microsoft-standard-WSL2")
 set(CMAKE_HOST_SYSTEM_PROCESSOR "x86_64")
 
-include("/home/tonelomb/conan/build/Release/generators/conan_toolchain.cmake")
+include("/home/tonelomb/conan-math-lib/consuming/build/Release/generators/conan_toolchain.cmake")
 
 set(CMAKE_SYSTEM "Linux-5.15.167.4-microsoft-standard-WSL2")
 set(CMAKE_SYSTEM_NAME "Linux")

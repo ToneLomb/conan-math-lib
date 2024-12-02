@@ -1,4 +1,4 @@
-script_folder="/home/tonelomb/conan/build/Release/generators"
+script_folder="/home/tonelomb/conan-math-lib/consuming/build/Release/generators"
 echo "echo Restoring environment" > "$script_folder/deactivate_conanrunenv-release-x86_64.sh"
 for v in LD_LIBRARY_PATH DYLD_LIBRARY_PATH
 do
